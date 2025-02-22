@@ -83,5 +83,22 @@ Atuo na área de Ciência de Dados, com foco em SQL para manipulação de grande
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
+
+---
+
+🔧 **Principais Tecnologias:**
+- **Backend**: Node.js, Python (Flask/Django), APIs RESTful
+- **Frontend**: HTML, CSS, JavaScript
+- **Banco de Dados**: SQL (PostgreSQL, MySQL), MongoDB
+- **Ferramentas & Frameworks**: Pandas, NumPy, Scikit-learn, TensorFlow
+- **Outros**: Git, Docker, AWS
+
+Estou buscando **novos desafios** que me permitam crescer na área de **Inteligência Artificial** e **Desenvolvimento Fullstack**, enquanto continuo aplicando os conceitos de **Ciência de Dados** para melhorar a tomada de decisões empresariais e a automação de processos.
+
+🚀 **Vamos conectar!**
+
+
+---
+
 <br/>
 <br/>
