@@ -1,6 +1,6 @@
 # 👨‍💻 João
 
-**`Desenvolvedor Fullstack e Cientista de Dados em Formação`**
+**`Desenvolvedor Fullstack e Analista de Dados`**
 
 Sou um desenvolvedor autodidata com experiência no backend e um bom domínio de CSS. Minha jornada no mundo da programação começou de forma autodidata, e desde então venho ampliando minhas habilidades para me tornar um desenvolvedor Fullstack. Atualmente, estou cursando Economia, o que me permite combinar uma mentalidade analítica e quantitativa com minhas habilidades técnicas.
 
